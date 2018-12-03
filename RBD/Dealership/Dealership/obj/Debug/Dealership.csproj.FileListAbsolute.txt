@@ -1,0 +1,11 @@
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\bin\Debug\Dealership.exe.config
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\bin\Debug\Dealership.exe
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\bin\Debug\Dealership.pdb
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\obj\Debug\Dealership.csprojResolveAssemblyReference.cache
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\obj\Debug\Dealership.Form1.resources
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\obj\Debug\Dealership.Properties.Resources.resources
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\obj\Debug\Dealership.csproj.GenerateResource.Cache
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\obj\Debug\Dealership.csproj.CoreCompileInputs.cache
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\obj\Debug\Dealership.exe
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\obj\Debug\Dealership.pdb
+C:\Users\MOISÉS DÍAZ\source\repos\Dealership\Dealership\obj\Debug\Dealership.Form2.resources
